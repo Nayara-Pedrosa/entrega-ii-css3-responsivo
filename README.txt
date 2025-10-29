@@ -141,4 +141,3 @@ entrega_experiencia_pratica_ii/
 💙 Desenvolvido com HTML, CSS3 e JavaScript.
 📍 São Paulo — Brasil
 📚 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-End.
-Coloque aqui suas imagens. Ex: avatar.jpg, projeto1.png
